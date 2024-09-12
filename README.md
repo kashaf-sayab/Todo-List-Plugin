@@ -20,6 +20,7 @@ For consistency and readability, this project follows the WordPress Coding Stand
  * __REST-API:__ Provides endpoints for CRUD operations on to-do items.
  * __JWT Authentication:__ Secures API endpoints by requiring a JWT for authentication. Tokens are generated and validated to ensure that only authenticated users can interact with the API.
  * __WP CLI:__ Provides command-line tools for managing tasks within the plugin, enabling administrators to perform operations directly from the terminal.
+ * __Pending Task Email:__ Users will receive automated daily email reminders for pending tasks.
  # Installation
    __To install and set up this plugin,follow these steps:__
 1.__Download the Plugin:__
@@ -43,9 +44,8 @@ For consistency and readability, this project follows the WordPress Coding Stand
 5. __Publish the Pages:__
     Publish each page after adding the shortcodes.
 # Working Video
-[plugin working](https://drive.google.com/file/d/132G7jzGlKPeDWrhqfFt7fXb11ShwGlgk/view?usp=drive_link)
-[Rest_API](https://drive.google.com/file/d/1c3KNWI-Mu9o794YbQlV-NcU_6Ms1Ihap/view?usp=drive_link)
-[WP-CLI](https://drive.google.com/file/d/1YWmeFSi49tRnZoO5-M6UX7TfSDqWbRHs/view?usp=drive_link)
+  * [plugin working](https://drive.google.com/file/d/132G7jzGlKPeDWrhqfFt7fXb11ShwGlgk/view?usp=drive_link)
+  * [Rest_API](https://drive.google.com/file/d/1c3KNWI-Mu9o794YbQlV-NcU_6Ms1Ihap/view?usp=drive_link)
+  * [WP-CLI](https://drive.google.com/file/d/1YWmeFSi49tRnZoO5-M6UX7TfSDqWbRHs/view?usp=drive_link)
 # screenshot
-
-# Todo-List-Plugin
+   [Module-8](https://drive.google.com/file/d/1ZPD-ebMKN-TB5rE1dLVkWvwj9YaTMGap/view?usp=drive_link)
